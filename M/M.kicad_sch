@@ -1996,28 +1996,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 95.25 64.77 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "36499071-565b-44b9-ae1e-48ce3e7a2d78")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 59.4867 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "LED1"
 		(shape input)
 		(at 85.09 88.9 180)
@@ -2552,7 +2530,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -2622,7 +2600,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 172.72 96.52 0)
 			(effects
 				(font
@@ -2761,7 +2739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 195.072 85.09 90)
 			(effects
 				(font
@@ -2898,7 +2876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 153.162 100.33 90)
 			(effects
 				(font
@@ -2967,7 +2945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Sensor_Distance:HC-SR04_C"
 			(at 222.25 86.36 0)
 			(effects
 				(font
@@ -3193,7 +3171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 196.85 96.52 0)
 			(effects
 				(font
@@ -3263,7 +3241,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 131.572 100.33 90)
 			(effects
 				(font
@@ -3332,7 +3310,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 128.27 86.36 0)
 			(effects
 				(font
@@ -3402,7 +3380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 170.942 85.09 90)
 			(effects
 				(font
@@ -3472,7 +3450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 183.642 85.09 90)
 			(effects
 				(font
@@ -3608,7 +3586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 149.86 85.09 0)
 			(effects
 				(font

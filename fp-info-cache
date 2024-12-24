@@ -1,4 +1,4 @@
-24414383391324442
+24416118455570482
 Arduino_C
 Arduino_Nano_C
 
@@ -90936,6 +90936,13 @@ TMF8820 TMF8821 TMF8828
 0
 12
 12
+Sensor_Distance
+HC-SR04_C
+
+
+0
+4
+4
 Sensor_Distance
 ST_VL53L1x
 VL53L1x distance sensor
